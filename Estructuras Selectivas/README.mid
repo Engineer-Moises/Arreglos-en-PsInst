@@ -6,3 +6,5 @@ lógicas; de ahí que se suelan denominar también estructuras de decisión o al
 En las estructuras selectivas se evalúa una condición y en función del resultado de la misma se rea liza una opción
 u otra. Las condiciones se especifican usando expresiones lógicas. La representación de una estructura selectiva se
 hace con palabras en pseudocódigo (if, then, else o bien en español si, entonces, si_no).
+
+Tomado de: Luis Joyanes Aguilar. Fundamentos de programación. Pagina 130
