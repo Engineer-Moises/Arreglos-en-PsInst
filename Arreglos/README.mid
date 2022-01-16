@@ -1,0 +1,9 @@
+Arreglos
+
+Un arreglo es una colección ordenada de datos (tanto primitivos u objetos dependiendo del lenguaje).
+Los arreglos pueden ser unidimensionales (vector) o bidimensionales (matriz) y se emplean para almacenar
+multiples valores en una sola variable, frente a las variables que sólo pueden almacenar un valor
+(por cada variable). Cada elemento del arreglo tiene un número al que está asociado, llamado "índice numérico"
+(numeric index), que permite acceder a él.
+
+Tomado de: MDN Web docs (https://developer.mozilla.org/es/docs/Glossary/array)
