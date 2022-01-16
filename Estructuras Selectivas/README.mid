@@ -1,1 +1,8 @@
-
+Estructuras Selectivas
+La especificación formal de algoritmos tiene realmente utilidad cuando el algoritmo requiere una descripción más
+complicada que una lista sencilla de instrucciones. Este es el caso cuando existen un número de posibles alternativas
+resultantes de la evaluación de una determinada condición. Las estructuras selectivas se utilizan para tomar decisiones
+lógicas; de ahí que se suelan denominar también estructuras de decisión o alternativas.
+En las estructuras selectivas se evalúa una condición y en función del resultado de la misma se rea liza una opción
+u otra. Las condiciones se especifican usando expresiones lógicas. La representación de una estructura selectiva se
+hace con palabras en pseudocódigo (if, then, else o bien en español si, entonces, si_no).
