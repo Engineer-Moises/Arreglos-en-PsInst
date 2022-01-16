@@ -1,1 +1,10 @@
+Estructuras Repetitivas
 
+Las computadoras están especialmente diseñadas para todas aquellas aplicaciones en las cuales una operación o conjunto
+de ellas deben repetirse muchasveces. Un tipo muy importante de estructura es el algoritmo necesario para
+repetir una o varias acciones un número determinado de veces. Un programa que lee una lista de números puede
+repetir la misma secuencia de mensajes al usuario e instrucciones de lectura hasta que todos los números de un
+fichero se lean. Las estructuras que repiten una secuencia de instrucciones un número determinado de veces se
+denominan bucles y se denomina iteración al hecho de repetir la ejecución de una secuencia de acciones.
+
+Tomado de: Luis Joyanes Aguilar. Fundamentos de Programación. Pagina 158
