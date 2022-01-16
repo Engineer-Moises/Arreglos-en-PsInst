@@ -1,4 +1,5 @@
 Estructuras Selectivas
+
 La especificación formal de algoritmos tiene realmente utilidad cuando el algoritmo requiere una descripción más
 complicada que una lista sencilla de instrucciones. Este es el caso cuando existen un número de posibles alternativas
 resultantes de la evaluación de una determinada condición. Las estructuras selectivas se utilizan para tomar decisiones
